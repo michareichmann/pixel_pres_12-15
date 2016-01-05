@@ -1,0 +1,3 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {british}
+\beamer@sectionintoc {1}{Regions}{2}{0}{1}
