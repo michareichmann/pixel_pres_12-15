@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.11)  18 DEC 2015 14:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.8)  6 JAN 2016 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1203,28 +1203,28 @@ LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <5> not available
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
 (Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 16.
 
-<Pics/PedestalRegions.png, id=19, 1606.0pt x 855.195pt>
+<Pics/PedestalRegions.png, id=19, 999.735pt x 475.7775pt>
 File: Pics/PedestalRegions.png Graphic file (type png)
 
 <use Pics/PedestalRegions.png>
 Package pdftex.def Info: Pics/PedestalRegions.png used on input line 33.
-(pdftex.def)             Requested size: 227.62204pt x 121.20103pt.
+(pdftex.def)             Requested size: 227.62204pt x 108.32303pt.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
  <./Pics/PedestalRegions.png>]
 File: Pics/PedestalRegions.png Graphic file (type png)
  <use Pics/PedestalRegions.png>
 Package pdftex.def Info: Pics/PedestalRegions.png used on input line 45.
-(pdftex.def)             Requested size: 345.69548pt x 184.08517pt.
+(pdftex.def)             Requested size: 345.69548pt x 164.51366pt.
  [2
 
 ]
-<Pics/SignalRegions.png, id=52, 1526.70375pt x 838.13126pt>
+<Pics/SignalRegions.png, id=52, 999.735pt x 475.7775pt>
 File: Pics/SignalRegions.png Graphic file (type png)
 
 <use Pics/SignalRegions.png>
 Package pdftex.def Info: Pics/SignalRegions.png used on input line 54.
-(pdftex.def)             Requested size: 345.69548pt x 189.77354pt.
+(pdftex.def)             Requested size: 345.69548pt x 164.51366pt.
  [3
 
  <./Pics/SignalRegions.png>]
@@ -1316,14 +1316,14 @@ Overfull \vbox (1.04486pt too high) detected at line 122
 
 [9
 
- <./Pics/all.png>] <Pics/augustcuts.png, id=116, 1001.7425pt x 1035.87pt>
+ <./Pics/all.png>] <Pics/augustcuts.png, id=116, 999.735pt x 975.645pt>
 File: Pics/augustcuts.png Graphic file (type png)
 
 <use Pics/augustcuts.png>
 Package pdftex.def Info: Pics/augustcuts.png used on input line 131.
-(pdftex.def)             Requested size: 227.62204pt x 235.36838pt.
+(pdftex.def)             Requested size: 227.62204pt x 222.13078pt.
 
-Overfull \vbox (14.28246pt too high) detected at line 131
+Overfull \vbox (1.04486pt too high) detected at line 131
  []
 
 [10
@@ -1342,11 +1342,14 @@ Overfull \vbox (1.04486pt too high) detected at line 140
 [11
 
  <./Pics/consecutive.png>]
-<Pics/ConsLog.png, id=132, 999.735pt x 797.98125pt>
+<Pics/ConsLog.png, id=132, 999.735pt x 977.6525pt>
 File: Pics/ConsLog.png Graphic file (type png)
  <use Pics/ConsLog.png>
 Package pdftex.def Info: Pics/ConsLog.png used on input line 149.
-(pdftex.def)             Requested size: 227.62204pt x 181.68105pt.
+(pdftex.def)             Requested size: 227.62204pt x 222.58784pt.
+
+Overfull \vbox (1.50192pt too high) detected at line 149
+ []
 
 [12
 
@@ -1372,63 +1375,70 @@ Package pdftex.def Info: Pics/landaucuts.png used on input line 168.
  [14
 
  <./Pics/landaucuts.png>]
-<Pics/meanPedestals.png, id=158, 1005.7575pt x 855.195pt>
+<Pics/meanPedestals.png, id=158, 999.735pt x 977.6525pt>
 File: Pics/meanPedestals.png Graphic file (type png)
 
 <use Pics/meanPedestals.png>
 Package pdftex.def Info: Pics/meanPedestals.png used on input line 178.
-(pdftex.def)             Requested size: 227.62204pt x 193.54585pt.
- [15
+(pdftex.def)             Requested size: 227.62204pt x 222.58784pt.
+
+Overfull \vbox (28.05278pt too high) detected at line 178
+ []
+
+[15
 
  <./Pics/meanPedestals.png>]
-<Pics/sig129.png, id=168, 781.92125pt x 803.0pt>
+<Pics/sig129.png, id=167, 999.735pt x 977.6525pt>
 File: Pics/sig129.png Graphic file (type png)
  <use Pics/sig129.png>
-Package pdftex.def Info: Pics/sig129.png used on input line 188.
-(pdftex.def)             Requested size: 199.16928pt x 204.53561pt.
-
-Overfull \vbox (10.00055pt too high) detected at line 188
- []
+Package pdftex.def Info: Pics/sig129.png used on input line 185.
+(pdftex.def)             Requested size: 199.16928pt x 194.76622pt.
 
 [16
 
- <./Pics/sig129.png>] <Pics/B2full.png, id=176, 781.92125pt x 803.0pt>
+ <./Pics/sig129.png>] <Pics/sig129pos.png, id=175, 999.735pt x 977.6525pt>
+File: Pics/sig129pos.png Graphic file (type png)
+
+<use Pics/sig129pos.png>
+Package pdftex.def Info: Pics/sig129pos.png used on input line 192.
+(pdftex.def)             Requested size: 199.16928pt x 194.76622pt.
+ [17
+
+ <./Pics/sig129pos.png>]
+<Pics/B2full.png, id=183, 999.735pt x 977.6525pt>
 File: Pics/B2full.png Graphic file (type png)
-
-<use Pics/B2full.png>
-Package pdftex.def Info: Pics/B2full.png used on input line 198.
-(pdftex.def)             Requested size: 199.16928pt x 204.53561pt.
-
-Overfull \vbox (10.00055pt too high) detected at line 198
- []
-
-[17
-
- <./Pics/B2full.png>] <Pics/b2updown.png, id=184, 781.92125pt x 803.0pt>
-File: Pics/b2updown.png Graphic file (type png)
-
-<use Pics/b2updown.png>
-Package pdftex.def Info: Pics/b2updown.png used on input line 208.
-(pdftex.def)             Requested size: 199.16928pt x 204.53561pt.
-
-Overfull \vbox (10.00055pt too high) detected at line 208
- []
+ <use Pics/B2full.png>
+Package pdftex.def Info: Pics/B2full.png used on input line 199.
+(pdftex.def)             Requested size: 199.16928pt x 194.76622pt.
 
 [18
 
- <./Pics/b2updown.png>] <Pics/b2.png, id=192, 781.92125pt x 803.0pt>
-File: Pics/b2.png Graphic file (type png)
+ <./Pics/B2full.png>] <Pics/B2fullpos.png, id=191, 999.735pt x 977.6525pt>
+File: Pics/B2fullpos.png Graphic file (type png)
 
-<use Pics/b2.png>
-Package pdftex.def Info: Pics/b2.png used on input line 218.
-(pdftex.def)             Requested size: 199.16928pt x 204.53561pt.
+<use Pics/B2fullpos.png>
+Package pdftex.def Info: Pics/B2fullpos.png used on input line 206.
+(pdftex.def)             Requested size: 199.16928pt x 194.76622pt.
+ [19
 
-Overfull \vbox (10.00055pt too high) detected at line 218
- []
+ <./Pics/B2fullpos.png>]
+<Pics/Dfullneg.png, id=200, 999.735pt x 977.6525pt>
+File: Pics/Dfullneg.png Graphic file (type png)
+ <use Pics/Dfullneg.png>
+Package pdftex.def Info: Pics/Dfullneg.png used on input line 213.
+(pdftex.def)             Requested size: 199.16928pt x 194.76622pt.
 
-[19
+[20
 
- <./Pics/b2.png>]
+ <./Pics/Dfullneg.png>] <Pics/Dfullpos.png, id=207, 999.735pt x 977.6525pt>
+File: Pics/Dfullpos.png Graphic file (type png)
+
+<use Pics/Dfullpos.png>
+Package pdftex.def Info: Pics/Dfullpos.png used on input line 220.
+(pdftex.def)             Requested size: 199.16928pt x 194.76622pt.
+ [21
+
+ <./Pics/Dfullpos.png>]
 \tf@nav=\write7
 \openout7 = `pixel_presentation.nav'.
 
@@ -1438,20 +1448,20 @@ Overfull \vbox (10.00055pt too high) detected at line 218
 \tf@snm=\write9
 \openout9 = `pixel_presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
  (./pixel_presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 223.
 Package rerunfilecheck Info: File `pixel_presentation.out' has not changed.
 (rerunfilecheck)             Checksum: FCD02361E923174B3BAF35E04C19084F;42.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 223.
  ) 
 Here is how much of TeX's memory you used:
- 22183 strings out of 493304
- 423430 string characters out of 6139870
+ 22199 strings out of 493304
+ 423722 string characters out of 6139871
  499351 words of memory out of 5000000
- 25048 multiletter control sequences out of 15000+600000
+ 25058 multiletter control sequences out of 15000+600000
  44925 words of font info for 48 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,17n,63p,10402b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1464,10 +1474,10 @@ ts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbo10.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb>
-Output written on pixel_presentation.pdf (19 pages, 1361995 bytes).
+Output written on pixel_presentation.pdf (21 pages, 1130771 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 180 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
- 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 264 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
